@@ -61,15 +61,12 @@ fichier `source/index.rst`). Elle doit contenir les éléments suivants
 
 ## Regard critique et améliorations
 
-- Dans cette partie, vous jetez un retard critique sur votre projet, en
-  particulier par rapport aux objectifs initiaux. 
-
-- Si vous estimez ne pas avoir réussi à satisfaire le cahier des charges initial
-  (objectifs initiaux), évoquez brièvement les difficultés rencontrées qui vous
-  en ont empêché et les éventuelles solutions que vous pourriez mettre en place
-  pour atteindre les objectifs.
+- L'objectif semble atteint : celui de recréer un Doodle de manière plus simple et épurée, contrairement à celui qui existe actuellement, devenu trop compliqué pour ce que cela représente
+- Il pourrait y avoir d'autres ajouts possibles car ma version actuelle est assez basique
+- Un changement d'interface utilisateur est aussi assez envisageable.
 
 ## Ce que vous avez appris
 
-- Expliquez brièvement ce que vous avez appris en réalisant votre projet (au
-  niveau technologique, conceptuel, gestion de projet, autres, ...)
+- Une maîtrise du HTML et de ce qui va avec
+- J'ai pu apprendre de nouveaux langages, tels que le PHP et Ajax
+- J'ai pu enfin apprendre à savoir développer un site web.
